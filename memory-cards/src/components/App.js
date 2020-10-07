@@ -59,11 +59,3 @@ function App() {
 }
 
 export default App;
-
-
-// const [cards, setCards] = useState(Cards);
-// const [score, setScore] = useState(0);
-// const [highscore, setHighscore] = useState(0);
-// const [clickedCards, setClickedCards] = useState([]);
-
-// const shuffle = (arr) => {
